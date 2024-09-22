@@ -26,7 +26,7 @@ tools=(
   "CVE-2018-11784"
   "CVE-2015-1635"
   "CVE-2022-0165"
-  "phpinfo-files-leaks"
+  "phpinfo-file-leaks"
   "shell-history-leaks"
   "CVE-2000-0114"
   "CVE-2024-1208"
