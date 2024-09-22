@@ -7,18 +7,18 @@ A Simple script that is used to install and run all the tools that Cappricio Sec
 
    - Install via git
      - ```bash
-          git clone https://github.com/Cappricio-Securities/installtools.git 
+          git clone https://github.com/PushkraJ99/installtools.git 
         ```
      - ```bash
           cd installtools 
         ```
    - Run the below command to give executable permission
      - ```bash
-         chmod +x install.sh cve-scan.sh
+         chmod +x cve-scan.sh
        ```
-   - Run the below command to give executable permission
+   - Run the below command to install requirements
      - ```bash
-         ./install.sh
+         pip3 install -r requirements.txt
        ```
     - For Getting Instant Telegram Notification
      - ```bash
