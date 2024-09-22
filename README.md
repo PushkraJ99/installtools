@@ -28,7 +28,7 @@ A Simple script that is used to install and run all the tools that Cappricio Sec
 
    - To run all the tools (Make sure you already have live.txt in your current directory)
      - ```bash
-         ./cve-scan.sh
+         ./cve-scan.sh subs.txt
        ```
  
 
